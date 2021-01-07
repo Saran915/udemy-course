@@ -1,0 +1,146 @@
+{
+    "courses": [
+        {
+            "title": "javaScript",
+            "value": [
+                {
+                    "title": "Angular",
+                    "img": "https://cdn.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular-760x400.png",
+                    "auth": "jhon",
+                    "price": 999
+                },
+                {
+                    "title": "React",
+                    "img": "https://miro.medium.com/max/3840/1*yjH3SiDaVWtpBX0g_2q68g.png",
+                    "auth": "Peter",
+                    "price": 1999
+                },
+                {
+                    "title": "Vue",
+                    "img": "https://modernweb.com/app/uploads/2017/03/vue.jpg",
+                    "auth": "Peter",
+                    "price": 1999
+                }
+            ]
+        },
+        {
+            "title": "Html",
+            "value": [
+                {
+                    "title": "HTML Tags",
+                    "img": "https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg",
+                    "auth": "Mark",
+                    "price": 1799
+                },
+                {
+                    "title": "CSS",
+                    "img": "https://disenowebakus.net/en/images/articles/learn-css.jpg",
+                    "auth": "Michale",
+                    "price": 1899
+                }
+            ]
+        },
+        {
+            "title": "Python",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://i.morioh.com/2019/12/30/fce63a3ecf7e.jpg",
+                    "auth": "Tony",
+                    "price": 1000
+                },
+                {
+                    "title": "Core",
+                    "img": "https://www.rextonitsolutions.com/uploads/courses/subcourses/2c839d077a89787c642eda102e0fe2dd.jpg",
+                    "auth": "Robert",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "title": "Java",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2lNf8L40q4AO4g2hrKSCWUPbRukw3PQvyw&usqp=CAU",
+                    "auth": "Windey",
+                    "price": 1500
+                },
+                {
+                    "title": "Core",
+                    "img": "https://d2vvqscadf4c1f.cloudfront.net/3UGtFy1KSUKeR9sgBA0e_core-java-online-training.png",
+                    "auth": "windey",
+                    "price": 2000
+                }
+            ]
+        },
+		{
+            "title": "C",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://www.eduzip.com/static/thumbnails/c-basic-concepts.jpg",
+                    "auth": "Windey",
+                    "price": 1500
+                },
+                {
+                    "title": "Core",
+                    "img": "https://coreui.io/images/blog/rebranding/logo1.jpg",
+                    "auth": "windey",
+                    "price": 2000
+                }
+            ]
+        },
+		{
+            "title": "C++",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://simplesnippets.tech/wp-content/uploads/2018/03/C-programming-course-featured-image-1.jpg",
+                    "auth": "Windey",
+                    "price": 1500
+                },
+                {
+                    "title": "Core",
+                    "img": "https://i.pinimg.com/474x/7c/b7/99/7cb799e054f157a5adad07afedfdceb7.jpg",
+                    "auth": "windey",
+                    "price": 2000
+                }
+            ]
+        },
+		{
+		    "title": "Ruby",
+            "value": [
+                {
+                    "title": "Basic",
+                    "img": "https://lh3.googleusercontent.com/proxy/0UHO1ihwMvIL5pEnK8P2hkQSoriBu3AWZue_bGHLOLUiVaGUFgg7QRgx8N_XCDVcdWA-KAhcJAOCYXLpp2lRPdQH6NoLsPv1-yBdE9B_Y4XNjwCwrtVdVbS52paXLK_ONY0FY_nUTquqdw",
+                    "auth": "Windey",
+                    "price": 1500
+                },
+                {
+                    "title": "Core",
+                    "img": "https://image.slidesharecdn.com/slides-100614100223-phpapp02/95/slide-9-1024.jpg",
+                    "auth": "windey",
+                    "price": 2000
+                }
+            ]
+        }
+    ],
+    "videoDetails": [
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_13_Common_Animals.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Introduction"
+        },
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_11_Characters_from_the_Mahabharat.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Syntax"
+        },
+        {
+            "videoUrl": "https://ezvidyavideos.s3.ap-south-1.amazonaws.com/2020/gk2/GK_2_Lesson_12_Cities_of_the_World.mp4",
+            "videoPoster": "https://www.mindinventory.com/blog/wp-content/uploads/2020/07/angular-10.png",
+            "title": "Hellow Wolrd program"
+        }
+    ]
+}
